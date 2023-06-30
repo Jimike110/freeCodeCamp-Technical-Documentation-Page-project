@@ -108,4 +108,7 @@ section:not(:first-of-type) {
         color: #ffffff;
         box-shadow: 0 0 10px 0px #00000088;
     }
+    #Credits {
+        margin-bottom: 70px;
+    }
 }
